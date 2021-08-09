@@ -1,0 +1,1434 @@
+{
+  "Counter" : 58,
+  "TimeStamp" : [ {
+    "Beacons" : [ "111", "113", "120", "135", "110", "144" ],
+    "Destination" : "T1942/144",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/111",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-03T07:41:33.780Z"
+    }, {
+      "CurrentLocation" : "T1942/113",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-03T07:42:14.733Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-03T07:42:39.675Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/110",
+      "TimeStamp" : "2018-08-03T07:43:17.242Z"
+    }, {
+      "CurrentLocation" : "T1942/110",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-03T07:43:28.356Z"
+    } ],
+    "Origin" : "T1942/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-03T07:43:55.367Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-03T07:41:33.780Z"
+  }, {
+    "Beacons" : [ "158", "146", "144", "110", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/158",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-03T07:53:32.363Z"
+    }, {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-03T07:53:52.841Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/110",
+      "TimeStamp" : "2018-08-03T07:54:29.961Z"
+    }, {
+      "CurrentLocation" : "T1942/110",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-03T07:54:35.882Z"
+    } ],
+    "Origin" : "T1942/158",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-03T07:54:56.824Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-03T07:53:32.363Z"
+  }, {
+    "Beacons" : [ "144", "110", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/110",
+      "TimeStamp" : "2018-08-03T07:55:21.836Z"
+    }, {
+      "CurrentLocation" : "T1942/110",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-03T07:55:54.678Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-03T07:56:35.024Z"
+    } ],
+    "Origin" : "T1942/144",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-03T07:57:01.479Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-03T07:55:21.836Z"
+  }, {
+    "Beacons" : [ "158", "146", "144", "110", "135", "120", "113" ],
+    "Destination" : "T1942/113",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/158",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-03T08:09:33.268Z"
+    }, {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-03T08:10:02.093Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/110",
+      "TimeStamp" : "2018-08-03T08:10:43.878Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-03T08:11:25.347Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-03T08:12:20.092Z"
+    } ],
+    "Origin" : "T1942/158",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-03T08:13:01.962Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-03T08:09:33.268Z"
+  }, {
+    "Beacons" : [ "158", "146", "144", "110", "135", "120", "113" ],
+    "Destination" : "T1942/113",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/158",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-03T08:15:03.503Z"
+    }, {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-03T08:15:28.172Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/110",
+      "TimeStamp" : "2018-08-03T08:16:07.195Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-03T08:17:22.348Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-03T08:17:52.919Z"
+    } ],
+    "Origin" : "T1942/158",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-03T08:18:08.894Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-03T08:15:03.503Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "135", "110", "144" ],
+    "Destination" : "T1942/144",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/111",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-07T17:04:20.796Z"
+    }, {
+      "CurrentLocation" : "T1942/113",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-07T17:05:01.456Z"
+    } ],
+    "Origin" : "T1942/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-07T17:05:14.074Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-07T17:04:20.796Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "135", "110", "144" ],
+    "Destination" : "T1942/144",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/111",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-07T17:15:16.309Z"
+    }, {
+      "CurrentLocation" : "T1942/113",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-07T17:15:53.149Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-07T17:16:11.320Z"
+    } ],
+    "Origin" : "T1942/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-07T17:16:24.542Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-07T17:15:16.309Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "135", "110", "144" ],
+    "Destination" : "T1942/144",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/111",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-08T02:48:05.371Z"
+    }, {
+      "CurrentLocation" : "T1942/113",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T02:48:47.524Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T02:49:21.443Z"
+    } ],
+    "Origin" : "T1942/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T02:49:35.021Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-08T02:48:05.371Z"
+  }, {
+    "Beacons" : [ "158", "146", "144", "110", "135", "120", "113", "111" ],
+    "Destination" : "T1942/111",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/158",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-08T05:40:23.414Z"
+    }, {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T05:40:41.003Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/110",
+      "TimeStamp" : "2018-08-08T05:41:09.380Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T05:41:37.537Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-08T05:42:59.359Z"
+    }, {
+      "CurrentLocation" : "T1942/113",
+      "NextLocation" : "T1942/111",
+      "TimeStamp" : "2018-08-08T05:43:24.428Z"
+    } ],
+    "Origin" : "T1942/158",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T05:43:50.485Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T05:40:23.414Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "135", "110", "144", "146", "158" ],
+    "Destination" : "T1942/158",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/111",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-08T05:44:15.145Z"
+    }, {
+      "CurrentLocation" : "T1942/113",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T05:44:27.628Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T05:45:00.331Z"
+    }, {
+      "CurrentLocation" : "T1942/110",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T05:45:25.339Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-08T05:46:12.854Z"
+    }, {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/158",
+      "TimeStamp" : "2018-08-08T05:46:45.659Z"
+    } ],
+    "Origin" : "T1942/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T05:47:28.772Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T05:44:15.145Z"
+  }, {
+    "Beacons" : [ "120", "135", "110", "144", "146" ],
+    "Destination" : "T1942/146",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T05:48:36.039Z"
+    }, {
+      "CurrentLocation" : "T1942/110",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T05:48:54.190Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-08T05:49:32.150Z"
+    } ],
+    "Origin" : "T1942/120",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T05:49:34.916Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-08T05:48:36.039Z"
+  }, {
+    "Beacons" : [ "146", "144", "110", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T05:51:43.527Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/110",
+      "TimeStamp" : "2018-08-08T05:52:07.905Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T05:52:31.502Z"
+    } ],
+    "Origin" : "T1942/146",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T05:53:04.516Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T05:51:43.527Z"
+  }, {
+    "Beacons" : [ "110", "135", "120", "113", "111" ],
+    "Destination" : "T1942/111",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/110",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T05:56:53.621Z"
+    } ],
+    "Origin" : "T1942/110",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T05:57:59.067Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-08T05:56:53.621Z"
+  }, {
+    "Beacons" : [ "158", "146", "144", "110", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/158",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-08T06:02:28.976Z"
+    }, {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T06:02:53.277Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/110",
+      "TimeStamp" : "2018-08-08T06:03:14.766Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T06:03:50.880Z"
+    } ],
+    "Origin" : "T1942/158",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T06:04:09.810Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-08T06:02:28.976Z"
+  }, {
+    "Beacons" : [ "146", "144", "110", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T06:17:10.854Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/110",
+      "TimeStamp" : "2018-08-08T06:17:35.207Z"
+    } ],
+    "Origin" : "T1942/146",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T06:18:29.943Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-08T06:17:10.854Z"
+  }, {
+    "Beacons" : [ "146", "144", "110", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T06:21:43.633Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/110",
+      "TimeStamp" : "2018-08-08T06:22:06.058Z"
+    }, {
+      "CurrentLocation" : "T1942/110",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T06:22:26.432Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T06:22:43.389Z"
+    } ],
+    "Origin" : "T1942/146",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T06:23:08.283Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T06:21:43.633Z"
+  }, {
+    "Beacons" : [ "146", "144", "153", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T06:42:47.744Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-08T06:43:07.004Z"
+    }, {
+      "CurrentLocation" : "T1942/153",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T06:43:52.259Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T06:44:11.517Z"
+    } ],
+    "Origin" : "T1942/146",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T06:44:47.567Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T06:42:47.744Z"
+  }, {
+    "Beacons" : [ "113", "120", "135", "153", "144", "146" ],
+    "Destination" : "T1942/146",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/113",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T06:45:33.933Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T06:45:54.032Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-08T06:46:25.648Z"
+    }, {
+      "CurrentLocation" : "T1942/153",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T06:46:54.003Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-08T06:47:17.646Z"
+    } ],
+    "Origin" : "T1942/113",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T06:47:41.413Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T06:45:33.933Z"
+  }, {
+    "Beacons" : [ "146", "144", "153", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T06:48:16.129Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-08T06:48:38.761Z"
+    }, {
+      "CurrentLocation" : "T1942/153",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T06:49:52.493Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T06:50:03.309Z"
+    } ],
+    "Origin" : "T1942/146",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T06:50:41.711Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-08T06:48:16.129Z"
+  }, {
+    "Beacons" : [ "146", "144", "153", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T07:04:03.580Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-08T07:04:26.997Z"
+    }, {
+      "CurrentLocation" : "T1942/153",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T07:05:06.516Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T07:05:27.901Z"
+    } ],
+    "Origin" : "T1942/146",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T07:06:45.906Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T07:04:03.580Z"
+  }, {
+    "Beacons" : [ "146", "144", "153", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T07:07:28.445Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-08T07:08:00.012Z"
+    }, {
+      "CurrentLocation" : "T1942/153",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T07:08:42.892Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T07:09:11.217Z"
+    } ],
+    "Origin" : "T1942/146",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T07:10:04.302Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T07:07:28.445Z"
+  }, {
+    "Beacons" : [ "146", "144", "153", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T07:13:22.588Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-08T07:13:43.603Z"
+    } ],
+    "Origin" : "T1942/146",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T07:14:24.622Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-08T07:13:22.588Z"
+  }, {
+    "Beacons" : [ "146", "144", "153", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T07:16:58.306Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-08T07:17:24.346Z"
+    }, {
+      "CurrentLocation" : "T1942/153",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T07:17:55.964Z"
+    } ],
+    "Origin" : "T1942/146",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T07:18:05.854Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-08T07:16:58.306Z"
+  }, {
+    "Beacons" : [ "146", "153", "144", "135", "120" ],
+    "Destination" : "T1942/120",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-08T07:58:51.417Z"
+    }, {
+      "CurrentLocation" : "T1942/153",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T07:59:21.231Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T07:59:50.539Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T08:00:15.716Z"
+    } ],
+    "Origin" : "T1942/146",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T08:00:47.043Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T07:58:51.417Z"
+  }, {
+    "Beacons" : [ "158", "146", "153", "144", "135", "120", "113" ],
+    "Destination" : "T1942/113",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/158",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-08T09:02:08.360Z"
+    }, {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-08T09:02:32.628Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T09:03:11.103Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T09:04:13.316Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-08T09:04:57.377Z"
+    } ],
+    "Origin" : "T1942/158",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T09:06:10.754Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T09:02:08.360Z"
+  }, {
+    "Beacons" : [ "158", "146", "153", "144", "135", "120", "113", "111" ],
+    "Destination" : "T1942/111",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/158",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-08T09:09:49.291Z"
+    }, {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-08T09:10:18.500Z"
+    }, {
+      "CurrentLocation" : "T1942/153",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-08T09:10:52.499Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-08T09:11:27.582Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-08T09:12:03.757Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-08T09:12:54.651Z"
+    }, {
+      "CurrentLocation" : "T1942/113",
+      "NextLocation" : "T1942/111",
+      "TimeStamp" : "2018-08-08T09:13:35.405Z"
+    } ],
+    "Origin" : "T1942/158",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-08T09:13:58.133Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-08T09:09:49.291Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "135", "144", "153" ],
+    "Destination" : "T1942/153",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/111",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-09T10:10:34.662Z"
+    } ],
+    "Origin" : "T1942/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-09T10:10:37.980Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-09T10:10:34.662Z"
+  }, {
+    "Beacons" : [ "158", "146", "153", "144", "135", "120", "113" ],
+    "Destination" : "T1942/113",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/158",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-10T00:41:10.113Z"
+    }, {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-10T00:41:36.884Z"
+    }, {
+      "CurrentLocation" : "T1942/153",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-10T00:41:58.893Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-10T00:42:28.117Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-10T00:42:49.552Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-10T00:43:27.946Z"
+    } ],
+    "Origin" : "T1942/158",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-10T00:43:44.775Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-10T00:41:10.113Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "135", "144", "153", "146", "158" ],
+    "Destination" : "T1942/158",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/111",
+      "NextLocation" : "T1942/113",
+      "TimeStamp" : "2018-08-10T01:38:38.270Z"
+    }, {
+      "CurrentLocation" : "T1942/113",
+      "NextLocation" : "T1942/120",
+      "TimeStamp" : "2018-08-10T01:39:03.073Z"
+    }, {
+      "CurrentLocation" : "T1942/120",
+      "NextLocation" : "T1942/135",
+      "TimeStamp" : "2018-08-10T01:39:35.977Z"
+    }, {
+      "CurrentLocation" : "T1942/135",
+      "NextLocation" : "T1942/144",
+      "TimeStamp" : "2018-08-10T01:40:06.420Z"
+    }, {
+      "CurrentLocation" : "T1942/144",
+      "NextLocation" : "T1942/153",
+      "TimeStamp" : "2018-08-10T01:40:31.207Z"
+    }, {
+      "CurrentLocation" : "T1942/153",
+      "NextLocation" : "T1942/146",
+      "TimeStamp" : "2018-08-10T01:41:08.307Z"
+    }, {
+      "CurrentLocation" : "T1942/146",
+      "NextLocation" : "T1942/158",
+      "TimeStamp" : "2018-08-10T01:41:45.454Z"
+    } ],
+    "Origin" : "T1942/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-10T01:42:14.833Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-10T01:38:38.270Z"
+  }, {
+    "Beacons" : [ "156", "136", "119", "151", "158" ],
+    "Destination" : "T1942/158",
+    "Nodes" : [ {
+      "CurrentLocation" : "T1942/156",
+      "NextLocation" : "T1942/136",
+      "TimeStamp" : "2018-08-10T03:12:04.872Z"
+    } ],
+    "Origin" : "T1942/156",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-10T03:12:53.523Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-10T03:12:04.872Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "135", "144", "153", "146", "158" ],
+    "Destination" : "T21(3)H/158",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T05:37:31.650Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T05:38:09.297Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/135",
+      "TimeStamp" : "2018-08-13T05:38:32.916Z"
+    }, {
+      "CurrentLocation" : "T2137/135",
+      "NextLocation" : "T2137/144",
+      "TimeStamp" : "2018-08-13T05:39:13.304Z"
+    }, {
+      "CurrentLocation" : "T2137/144",
+      "NextLocation" : "T2137/153",
+      "TimeStamp" : "2018-08-13T05:39:32.370Z"
+    }, {
+      "CurrentLocation" : "T2137/153",
+      "NextLocation" : "T2137/146",
+      "TimeStamp" : "2018-08-13T05:39:59.275Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T05:40:28.421Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T05:37:31.650Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "135", "144", "153", "146", "158" ],
+    "Destination" : "T21(3)H/158",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T05:46:29.173Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T05:47:00.873Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/135",
+      "TimeStamp" : "2018-08-13T05:47:27.718Z"
+    }, {
+      "CurrentLocation" : "T2137/135",
+      "NextLocation" : "T2137/144",
+      "TimeStamp" : "2018-08-13T05:48:16.822Z"
+    }, {
+      "CurrentLocation" : "T2137/144",
+      "NextLocation" : "T2137/153",
+      "TimeStamp" : "2018-08-13T05:48:29.193Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T05:48:51.688Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T05:46:29.173Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "135", "144", "153", "146", "158" ],
+    "Destination" : "T21(3)H/158",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T05:50:01.739Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T05:50:22.348Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/135",
+      "TimeStamp" : "2018-08-13T05:50:43.749Z"
+    }, {
+      "CurrentLocation" : "T2137/135",
+      "NextLocation" : "T2137/144",
+      "TimeStamp" : "2018-08-13T05:52:13.571Z"
+    }, {
+      "CurrentLocation" : "T2137/144",
+      "NextLocation" : "T2137/153",
+      "TimeStamp" : "2018-08-13T05:52:29.309Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T05:52:48.553Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T05:50:01.739Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:03:57.995Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T06:04:19.267Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T06:04:42.015Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T06:05:09.854Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T06:03:57.995Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:03:57.995Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:06:15.806Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T06:06:39.847Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T06:07:11.342Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T06:07:29.340Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T06:06:15.806Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:03:57.995Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:06:15.806Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:08:42.693Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T06:09:12.746Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T06:09:36.402Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T06:09:59.959Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T06:08:42.693Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:03:57.995Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:06:15.806Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:08:42.693Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:15:15.679Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T06:15:48.356Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T06:16:17.662Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T06:16:29.245Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T06:15:15.679Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:17:47.874Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T06:18:10.357Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T06:18:32.732Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T06:17:47.874Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:17:47.874Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:24:58.204Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T06:25:20.195Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T06:26:35.531Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T06:24:58.204Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:30:22.606Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T06:30:45.430Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T06:31:12.729Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T06:31:36.799Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T06:30:22.606Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:30:22.606Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:44:47.101Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T06:45:26.720Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T06:45:58.204Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T06:46:31.938Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T06:44:47.101Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:30:22.606Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:44:47.101Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:08.261Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:03:49.900Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T07:03:08.261Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:30:22.606Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:44:47.101Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:08.261Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:55.986Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:03:57.848Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T07:03:55.986Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:30:22.606Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:44:47.101Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:08.261Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:55.986Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:04:01.631Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T07:04:29.136Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T07:05:21.952Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:05:53.053Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T07:04:01.631Z"
+  }, {
+    "Beacons" : [ "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:30:22.606Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:44:47.101Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:08.261Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:55.986Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:04:01.631Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T07:05:55.073Z"
+    } ],
+    "Origin" : "T2138/120",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:06:38.635Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T07:05:55.073Z"
+  }, {
+    "Beacons" : [ "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:30:22.606Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:44:47.101Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:08.261Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:55.986Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:04:01.631Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T07:05:55.073Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T07:06:39.954Z"
+    } ],
+    "Origin" : "T2138/120",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:07:12.089Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T07:06:39.954Z"
+  }, {
+    "Beacons" : [ "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:30:22.606Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T06:44:47.101Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:08.261Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:03:55.986Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:04:01.631Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T07:05:55.073Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T07:06:39.954Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T07:07:45.648Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T07:08:12.240Z"
+    } ],
+    "Origin" : "T2138/113",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:08:39.817Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T07:07:45.648Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:16:39.602Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T07:17:06.157Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T07:17:46.684Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:18:03.563Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T07:16:39.602Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:38:13.982Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T07:39:24.345Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:39:28.052Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T07:38:13.982Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:38:13.982Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:40:00.731Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T07:40:26.019Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T07:40:47.376Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:41:23.292Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T07:40:00.731Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:47:06.322Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T07:47:44.683Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T07:48:26.485Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:48:59.569Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T07:47:06.322Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:55:31.841Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T07:55:39.999Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T07:55:31.841Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T07:59:35.705Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T08:01:21.946Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T07:59:35.705Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T08:05:56.695Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T08:06:27.372Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T08:07:09.873Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T08:07:39.341Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T08:05:56.695Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T08:28:11.703Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T08:28:36.310Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T08:29:06.528Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T08:31:00.496Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T08:28:11.703Z"
+  }, {
+    "Beacons" : [ "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T08:28:11.703Z"
+    }, {
+      "CurrentLocation" : "T2138/113",
+      "NextLocation" : "T2138/120",
+      "TimeStamp" : "2018-08-13T08:31:19.547Z"
+    }, {
+      "CurrentLocation" : "T2138/120",
+      "NextLocation" : "T2138/151",
+      "TimeStamp" : "2018-08-13T08:32:02.516Z"
+    } ],
+    "Origin" : "T2138/113",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T08:32:34.865Z",
+    "routeCompleted" : true,
+    "startTime" : "2018-08-13T08:31:19.547Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T08:58:30.943Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T08:59:01.597Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T08:58:30.943Z"
+  }, {
+    "Beacons" : [ "111", "113", "120", "151" ],
+    "Destination" : "T2138/151",
+    "Nodes" : [ {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T08:58:30.943Z"
+    }, {
+      "CurrentLocation" : "T2138/111",
+      "NextLocation" : "T2138/113",
+      "TimeStamp" : "2018-08-13T08:59:02.185Z"
+    } ],
+    "Origin" : "T2138/111",
+    "User" : "03hoXLhWoXgOGZBsr627lvfAqsC3",
+    "endTime" : "2018-08-13T08:59:39.280Z",
+    "routeCompleted" : false,
+    "startTime" : "2018-08-13T08:59:02.185Z"
+  } ],
+  "userProfile" : {
+    "03hoXLhWoXgOGZBsr627lvfAqsC3" : {
+      "dateOfBirth" : "1998-07-23",
+      "email" : "test@gmail.com",
+      "gender" : "Male",
+      "loginType" : "email",
+      "name" : "Admin",
+      "password" : "161ebd7d45089b3446ee4e0d86dbcf92",
+      "profileURL" : "https://firebasestorage.googleapis.com/v0/b/pwa-firebase-hosting.appspot.com/o/images%2FProfilePicture%2Fpp.png?alt=media&token=e9fae8f6-516a-425f-9cd4-f2009cc1dd2f",
+      "role" : "Admin"
+    }
+  }
+}

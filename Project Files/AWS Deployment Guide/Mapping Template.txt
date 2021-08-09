@@ -1,0 +1,72 @@
+#set($inputRoot = $input.path('$'))
+#if($input.params('type') == "Beacon"){
+    "type" : "$input.params('type')",
+    "action": "$input.params('action')",
+    "UUID" : "$inputRoot.Beacon.UUID",
+    "Major" : "$inputRoot.Beacon.Major",
+    "Minor" : "$inputRoot.Beacon.Minor",
+    "TurningPoint" : "$inputRoot.Beacon.TurningPoint",
+    "BeaconID" : "$inputRoot.Beacon.BeaconID",
+    "Toggle" : "$inputRoot.Beacon.Toggle"
+}
+#elseif($input.params('type') == "Facility"){
+    "type" : "$input.params('type')",
+    "action": "$input.params('action')",
+    "FacilityName" : "$inputRoot.Facility.FacilityName",
+    "FacilityInfo" : "$inputRoot.Facility.FacilityInfo",
+    "FacilityID" : "$inputRoot.Facility.FacilityID",
+    "ImageURL" : "$inputRoot.Facility.ImageURL",
+    "Category" : "$inputRoot.Facility.Category",
+    "ImageID" :"$inputRoot.Facility.ImageID",
+    "UnitID":[#foreach($elem in $inputRoot.Facility.UnitID)$elem#if($foreach.hasNext),#end#end]
+}#elseif($input.params('type') == "Unit"){
+    "type" : "$input.params('type')",
+    "action": "$input.params('action')",
+    "UnitNo" : "$inputRoot.Unit.UnitNo",
+    "Level" : "$inputRoot.Unit.Level",
+    "Block" : "$inputRoot.Unit.Block",
+    "UnitName" : "$inputRoot.Unit.UnitName",
+    "UnitID" : "$inputRoot.Unit.UnitID",
+    "ImageURL" : "$inputRoot.Unit.ImageURL",
+    "Category" : "$inputRoot.Unit.Category",
+    "ImageID" :"$inputRoot.Unit.ImageID",
+    "BeaconID": [#foreach($elem in $inputRoot.Unit.BeaconID)$elem#if($foreach.hasNext),#end#end]
+}#elseif($input.params('type') == "BeaconDirection"){
+    "type" : "$input.params('type')",
+    "action": "$input.params('action')",
+    "CurrentBID" : "$inputRoot.BeaconDirection.CurrentBID",
+    #if($inputRoot.BeaconDirection.PreviousBID != 0)
+    "PreviousBID" : "$inputRoot.BeaconDirection.PreviousBID",
+    #end
+    #if($inputRoot.BeaconDirection.NextBID != 0)
+    "NextBID" : "$inputRoot.BeaconDirection.NextBID",
+    #end
+    "DirectID" : "$inputRoot.BeaconDirection.DirectID",
+    "BDirectionID" : "$inputRoot.BeaconDirection.BDirectionID",
+    "Compass" : "$inputRoot.BeaconDirection.Compass",
+    "Note" : "$inputRoot.BeaconDirection.Note"
+}#elseif($input.params('type') == "BeaconRelation"){
+    "type" : "$input.params('type')",
+    "action": "$input.params('action')",
+    "BeaconID" : "$inputRoot.BeaconRelation.BeaconID",
+    "NewBeaconID" : "$inputRoot.BeaconRelation.NewBeaconID",
+    "RelatedBeacon":[#foreach($elem in $inputRoot.BeaconRelation.RelatedBeacon)$elem#if($foreach.hasNext),#end#end],
+    "BRID" : "$inputRoot.BeaconRelation.BRID"
+}#elseif($input.params('type') == "BeaconUnit"){
+    "type" : "$input.params('type')",
+    "action": "$input.params('action')",
+    "BeaconID" : "$inputRoot.BeaconUnit.BeaconID",
+    "UnitID" : "$inputRoot.BeaconUnit.UnitID",
+    "BUID" : "$inputRoot.BeaconUnit.BUID"
+}#elseif($input.params('type') == "FacilityUnit"){
+    "type" : "$input.params('type')",
+    "action": "$input.params('action')",
+    "FacilityID" : "$inputRoot.FacilityUnit.FacilityID",
+    "UnitID" : "$inputRoot.FacilityUnit.UnitID",
+    "FUID" : "$inputRoot.FacilityUnit.FUID"
+}#elseif($input.params('type') == "Image"){
+    "type" : "$input.params('type')",
+    "action": "$input.params('action')",
+    "ImageURL" : "$inputRoot.Image.ImageURL",
+    "Category" : "$inputRoot.Image.Category"
+}#end

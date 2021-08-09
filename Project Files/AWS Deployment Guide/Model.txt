@@ -1,0 +1,88 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "GetBeacon",
+  "type": "object",
+  "properties": {
+    "Beacon": {
+        "type": "object",
+        "properties": {
+            "UUID": { "type": "string" },
+            "Major": { "type": "integer" },
+            "Minor": { "type": "integer" },
+            "TurningPoint": { "type": "integer" },
+            "Toggle": { "type": "integer" },
+            "BeaconID": { "type": "integer" }
+        }
+    },
+    "Facility": {
+        "type": "object",
+        "properties": {
+            "FacilityName": { "type": "string" },
+            "FacilityInfo": { "type": "string" },
+            "FacilityID": { "type": "integer" },
+            "ImageUrl": { "type": "string" },
+            "Category": { "type": "string" },
+            "ImageID": { "type": "integer" },
+            "UnitID": { "type": "array" }
+        }
+    },
+    "Unit": {
+        "type": "object",
+        "properties": {
+            "UnitNo": { "type": "string" },
+            "Level": { "type": "integer" },
+            "Block": { "type": "string" },
+            "UnitName": { "type": "string" },
+            "UnitID": { "type": "integer" },
+            "ImageUrl": { "type": "string" },
+            "Category": { "type": "string" },
+            "ImageID": { "type": "integer" },
+            "BeaconID": { "type": "array" }
+        }
+    },
+    "BeaconDirection": {
+        "type": "object",
+        "properties": {
+            "CurrentBID": { "type": "integer" },
+            "PreviousBID": { "type": "integer" },
+            "NextBID": { "type": "integer" },
+            "DirectID": { "type": "integer" },
+            "Compass": { "type": "integer" },
+            "Note": { "type": "string" },
+            "BDirectionID": { "type": "integer" }
+        }
+    },
+    "BeaconRelation": {
+        "type": "object",
+        "properties": {
+            "BeaconID": { "type": "integer" },
+            "NewBeaconID": { "type": "integer" },
+            "RelatedBeacon": { "type": "array" },
+            "BRID": { "type": "integer" }
+        }
+    },
+    "BeaconUnit": {
+        "type": "object",
+        "properties": {
+            "BeaconID": { "type": "integer" },
+            "UnitID": { "type": "integer" },
+            "BUID": { "type": "integer" }
+        }
+    },
+    "FacilityUnit": {
+        "type": "object",
+        "properties": {
+            "FacilityID": { "type": "integer" },
+            "UnitID": { "type": "integer" },
+            "FUID": { "type": "integer" }
+        }
+    },
+    "Image": {
+        "type": "object",
+        "properties": {
+            "ImageUrl": { "type": "string" },
+            "Category": { "type": "string" }
+        }
+    }
+  }
+}
