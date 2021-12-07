@@ -22,3 +22,7 @@ This application was developed as part of our Final Year Project in Singapore Po
 <p align="center">
   <img src="https://github.com/pinyoko573/directie/blob/master/Presentation/architecture.png">
 </p>
+The main technologies that were used are Firebase (Hosting & DB), Ionic 3 Framework, ExpressJS and AWS (Lambda, API Gateway, RDS).
+
+## Special Thanks
+We would like to thank our two lecturers, Lim Kim Hoe, Lin Zhao for assisting us in this project and also Government Technology Agency of Singapore (GovTech) for allowing us to test our application on the actual target users!
