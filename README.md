@@ -2,7 +2,7 @@
   <img width="400" height="150" src="https://github.com/pinyoko573/directie/blob/master/Presentation/logo.png">
 </p>
 
-by pinyoko573, Epith
+by pinyoko573, Epith, Foott, nebby-ss, GiKwang
 
 Front-End Project Files: https://github.com/Epith/directie-FYPFE <br>
 Back-End Project Files: https://github.com/pinyoko573/directie-FYPBE
